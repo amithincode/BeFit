@@ -1,4 +1,4 @@
-# befit2
+# BeFit
 
 A new Flutter project.
 
